@@ -22,7 +22,7 @@ body{
 .book{ 
 	padding-top:15px;
 	background:lightgrey;      
-	border: 1px solid black;
+	color:black;
 }
 .center{
 	display: block;
